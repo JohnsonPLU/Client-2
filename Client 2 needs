@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Client #2 needs</title>
+    </head>
+    <style>
+        body{
+            background-color:rgb(0, 0, 0);
+        }
+        body{
+            color:rgb(13, 0, 255);
+        }
+        
+    </style>
+    
+    <body>
+<h1>Needs for client 2</h1>
+<p>Client 2 needs 5 cheap computers that are strong enough to play the lastest games but the only that he needs is to linux and all 5 of them like to tinker with the programs. They also feel very comfortable setting up things on linux and the 5 of them need similar computers and they mainly use git and github to acompolish their work and communicate with each other.They would like to have the best connectivity that we can setup for them. The programs they tend to use are highly graphic and intensive and it will take most of their space so they would need a lot of space for their programs and they would like to have a network system storage to hold all of their assets that are going to be created from their artist(Client #1). They tend to prefer mechanical keyboards and a mouse that has a lot of button options so that they can setup macros to speed up their work.</p>
+<table>
+    <thead>
+        <tr>
+              <th>5 Computer cases</th>
+              <th>5 Mouses</th>
+              <th>5 Cpu's</th>
+              <th>5 CPU cooler</th>
+              <th>5 Motherboards</th>
+              <th>5 memory cards
+              <th>storage</th>
+              <th>video cards</th>
+              <th>power supply</th>
+              <th>Optical drives
+              <th>Operating system</th>
+              <th>Software</th>
+              <th>monitor</th>
+              <th>External sotrage</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+
+    
+<td>NZXT S340 (Black)</td> 
+<td>Dragon War ELE-G3 Dragunov Gaming Laser Mouse</td>
+<td>Intel Pentium G4560</td>
+<td>Cooler Master Hyper 212 EVO</td>
+<td>MSI B350 TOMAHAWK</td>
+<td>Corsair Vengeance LPX</td>
+<td>Western Digital WD10EZEX</td>
+<td>Gigabyte GV-N1030SL-2GL</td>
+<td>SeaSonic M12II 520 Bronze</td>
+<td>Asus DRW-24B1ST/BLK/B/AS</td>
+<td>Microsoft Windows 10 Home (64-bit)</td>
+<td>Microsoft Office Professional 2016</td>
+<td>Seagate</td>
+<td>Asus VP228H</td>
+        </tr>
+    </tbody>
+</table>
+<p><a href="https://ca.pcpartpicker.com/product/ms6BD3/nzxt-case-cas340wb1">Computers</a></p>
+
+<p><a href="http://www.canadacomputers.com/product_info.php?cPath=21_279_275&item_id=063426">Mouses</a></p>
+<p><a href="https://ca.pcpartpicker.com/product/8gKhP6/intel-pentium-g4560-35ghz-dual-core-processor-bx80677g4560">CPU's</a></p>
+<p><a href="https://ca.pcpartpicker.com/product/hmtCmG/cooler-master-cpu-cooler-rr212e20pkr2">CPU coolers</a></p>
+<p><a href="https://ca.pcpartpicker.com/product/Y4kwrH/msi-b350-tomahawk-atx-am4-motherboard-b350-tomahawk">Motherboard</a></p>
+<p><a href="https://ca.pcpartpicker.com/product/MYH48d/corsair-memory-cmk16gx4m2b3000c15">Memory cards</a></p>
+<p><a href="https://ca.pcpartpicker.com/product/MwW9TW/western-digital-internal-hard-drive-wd10ezex">Storage</a></p>
+<p><a href="https://ca.pcpartpicker.com/product/s3YWGX/gigabyte-geforce-gt-1030-2gb-silent-low-profile-video-card-gv-n1030sl-2gl">video cards</a></p>
+<p><a href="https://ca.pcpartpicker.com/product/TgW9TW/seasonic-power-supply-m12ii520bronze">power supply</a></p>
+<p><a href="https://ca.pcpartpicker.com/product/2v9KHx/asus-optical-drive-drw24b1stblkbas">Optical drives</a></p>
+<p><a href="https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140">Operating systems</a></p>
+<p><a href="https://ca.pcpartpicker.com/product/Xqp323/microsoft-software-26916814">software</a></p>
+<p><a href="https://ca.pcpartpicker.com/product/xbKhP6/asus-monitor-vp228h">monitors</a></p>
+<p><a href="https://ca.pcpartpicker.com/product/M3K7YJ/seagate-external-hard-drive-stdr2000103">External storage</a></p>
+    </body>
+    
+    
+</html>
